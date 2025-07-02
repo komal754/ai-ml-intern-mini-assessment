@@ -1,0 +1,1 @@
+# ai-ml-intern-mini-assessment
